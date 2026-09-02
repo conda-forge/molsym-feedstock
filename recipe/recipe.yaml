@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 1.1.0
+  version: "1.1.1"
 
 package:
   name: molsym
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/molsym/molsym-${{ version }}.tar.gz
-  sha256: 9028482c104595e613f40f948daf4bd428c2b0b910a4e3f37bc08ed8a8b631dc
+  sha256: 591cd86b3e1354d31340c747523ba813557ccb2fe2bcb4cab1c6d98ba835a655
 
 build:
   number: 0
